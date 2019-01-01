@@ -1,0 +1,116 @@
+[
+    {
+        "electionNumber": "01",
+        "name": "JOKO WIDODO & MA'RUF AMIN",
+        "supportParty": [
+            "PDIP",
+            "Golkar",
+            "PKB",
+            "Nasdem",
+            "Hanura"
+        ],
+        "partyCoalition": [
+            "Perindo",
+            "PSI",
+            "PKP"
+        ],
+        "vision": "Terwujudnya Indonesia maju yang berdaulat, mandiri, dan berkepribadian, berlandaskan gotong-royong.",
+        "mission": [
+            "Peningkatan kualitas manusia Indonesia.",
+            "Struktur ekonomi yang produktif, mandiri, dan berdaya saing.",
+            "Pembangunan yang merata dan berkeadilan.",
+            "Mencapai lingkungan hidup yang berkelanjutan.",
+            "Kemajuan budaya yang mencerminkan kepribadian bangsa.",
+            "Penegakan sistem hukum yang bebas korupsi, bermartabat, dan terpercaya.",
+            "Perlindungan bagi segenap bangsa dan memberikan rasa aman pada seluruh warga.",
+            "Pengelolaan pemerintahan yang bersih, efektif, dan terpercaya.",
+            "Sinergi pemerintah daerah dalam kerangka Negara Kesatuan."
+        ],
+        "presidentName": "Ir. H. JOKO WIDODO",
+        "vicePresidentName": "Prof. Dr. (H.C) KH. MA’RUF AMIN",
+        "mediaSocial": [
+            {
+                "account": "facebook",
+                "name": "Jokowi-Amin",
+                "url": "https://www.facebook.com/jokowi.amin/"
+            },
+            {
+                "account": "instagram",
+                "name": "jokowi.amin",
+                "url": "https://www.instagram.com/jokowi.amin/"
+            },
+            {
+                "account": "twitter",
+                "name": "jokowi_amin",
+                "url": "https://twitter.com/jokowi_amin/"
+            },
+            {
+                "account": "youtube",
+                "name": "jokowiamin",
+                "url": "https://www.youtube.com/jokowiamin"
+            },
+            {
+                "account": "twitter",
+                "name": "jokowi",
+                "url": "https://twitter.com/jokowi"
+            }
+        ],
+        "images": []
+    },
+    {
+        "electionNumber": "02",
+        "name": "PRABOWO SUBIANTO & SANDIAGA SALAHUDDIN UNO",
+        "supportParty": [
+            "Gerindra",
+            "PAN",
+            "Demokrat",
+            "PKS"
+        ],
+        "partyCoalition": [
+            "Berkarya"
+        ],
+        "vision": "Terwujudnya Bangsa dan Negara Republik Indonesia yang adil, makmur bermartabat, relijius, berdaulat di bidang politik, berdiri di atas kaki sendiri di bidang ekonomi, dan berkepribadian nasional yang kuat di bidang budaya serta menjamin kehidupan yang rukun antar warga negara tanpa memandang suku, agama, latar belakang sosial dan rasnya berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+        "mission": [
+            "Membangun perekonomian nasional yang adil, makmur,  berkualitas, dan berwawasan  lingkungan  dengan  mengutamakan  kepentingan  rakyat Indonesia melalui jalan politik-ekonomi sesuai Pasal 33 dan 34 UUD Negara Republik Indonesia Tahun 1945.",
+            "Membangun masyarakat Indonesia yang cerdas, sehat, berkualitas, produktif, dan  berdaya  saing  dalam  kehidupan  yang  aman,  rukun,  damai, dan bermartabat serta terlindungi oleh jaminan sosial yang berkeadilan tanpa diskriminasi.",
+            "Membangun keadilan di bidang hukum yang tidak tebang pilih dan transparan, serta mewujudkan persatuan dan kesatuan bangsa Indonesia melalui jalan demokrasi yang berkualitas sesuai dengan Pancasila dan UUD Negara Republik Indonesia Tahun 1945",
+            "Membangun kembali nilai-nilai luhur kepribadian bangsa untuk mewujudkan Indonesia yang adil, makmur,  bermartabat, dan bersahabat, yang diberkati oleh Tuhan Yang Maha Esa.",
+            "Membangun sistem pertahanan dan keamanan nasional secara mandiri yang mampu menjaga keutuhan dan integritas wilayah Indonesia."
+        ],
+        "presidentName": "H. PRABOWO SUBIANTO ",
+        "vicePresidentName": "H. SANDIAGA SALAHUDDIN UNO",
+        "mediaSocial": [
+            {
+                "account": "facebook",
+                "name": "PrabowoSubianto",
+                "url": "https://www.facebook.com/PrabowoSubianto/"
+            },
+            {
+                "account": "facebook",
+                "name": "SandiSUno",
+                "url": "https://www.facebook.com/SandiSUno/"
+            },
+            {
+                "account": "twitter",
+                "name": "prabowo",
+                "url": "https://twitter.com/prabowo"
+            },
+            {
+                "account": "twitter",
+                "name": "sandiuno",
+                "url": "https://twitter.com/sandiuno"
+            },
+            {
+                "account": "instagram",
+                "name": "prabowo",
+                "url": "https://www.instagram.com/prabowo/"
+            },
+            {
+                "account": "instagram",
+                "name": "sandiuno",
+                "url": "https://www.instagram.com/sandiuno/"
+            }
+        ],
+        "images": []
+    }
+]
