@@ -1,0 +1,235 @@
+{
+  "electionNumber": "02",
+  "name": "PRABOWO SUBIANTO & SANDIAGA SALAHUDDIN UNO",
+  "supportParty": [
+    "Gerindra",
+    "PAN",
+    "Demokrat",
+    "PKS"
+  ],
+  "partyCoalition": [
+    "Berkarya"
+  ],
+  "vision": "Terwujudnya Bangsa dan Negara Republik Indonesia yang adil, makmur bermartabat, relijius, berdaulat di bidang politik, berdiri di atas kaki sendiri di bidang ekonomi, dan berkepribadian nasional yang kuat di bidang budaya serta menjamin kehidupan yang rukun antar warga negara tanpa memandang suku, agama, latar belakang sosial dan rasnya berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+  "mission": [
+    "Membangun perekonomian nasional yang adil, makmur, berkualitas, dan berwawasan lingkungan dengan mengutamakan kepentingan rakyat Indonesia melalui jalan politik-ekonomi sesuai Pasal 33 dan 34 UUD Negara Republik Indonesia Tahun 1945.",
+    "Membangun masyarakat Indonesia yang cerdas, sehat, berkualitas, produktif, dan berdaya saing dalam kehidupan yang aman, rukun, damai, dan bermartabat serta terlindungi oleh jaminan sosial yang berkeadilan tanpa diskriminasi.",
+    "Membangun keadilan di bidang hukum yang tidak tebang pilih dan transparan, serta mewujudkan persatuan dan kesatuan bangsa Indonesia melalui jalan demokrasi yang berkualitas sesuai dengan Pancasila dan UUD Negara Republik Indonesia Tahun 1945",
+    "Membangun kembali nilai-nilai luhur kepribadian bangsa untuk mewujudkan Indonesia yang adil, makmur, bermartabat, dan bersahabat, yang diberkati oleh Tuhan Yang Maha Esa.",
+    "Membangun sistem pertahanan dan keamanan nasional secara mandiri yang mampu menjaga keutuhan dan integritas wilayah Indonesia."
+  ],
+  "presidentName": "H. PRABOWO SUBIANTO ",
+  "vicePresidentName": "H. SANDIAGA SALAHUDDIN UNO",
+  "mediaSocial": [
+    {
+      "account": "facebook",
+      "name": "PrabowoSubianto",
+      "url": "https://www.facebook.com/PrabowoSubianto/"
+    },
+    {
+      "account": "facebook",
+      "name": "SandiSUno",
+      "url": "https://www.facebook.com/SandiSUno/"
+    },
+    {
+      "account": "twitter",
+      "name": "prabowo",
+      "url": "https://twitter.com/prabowo"
+    },
+    {
+      "account": "twitter",
+      "name": "sandiuno",
+      "url": "https://twitter.com/sandiuno"
+    },
+    {
+      "account": "instagram",
+      "name": "prabowo",
+      "url": "https://www.instagram.com/prabowo/"
+    },
+    {
+      "account": "instagram",
+      "name": "sandiuno",
+      "url": "https://www.instagram.com/sandiuno/"
+    }
+  ],
+  "profile": [
+    {
+      "name": "Prabowo Subianto",
+      "nik": "3174031710510005",
+      "birthdate": "17-Oct-51",
+      "birthPlace": "Jakarta",
+      "sex": "Laki-laki",
+      "religion": "Islam",
+      "address": "Kp Gombong RT. 03, RW 09 Kelurahan Bojong Koneng, Kecamatan Babakan Madang, Kabupaten Bogor, Jawa Barat",
+      "maritalStatus": "Cerai Hidup",
+      "wifeName": "Siti Hediati Haryadi",
+      "childrenCount": "1",
+      "lastEducation": "Akademi Militer Nasional",
+      "occupation": "Purnawirawan TNI / Pengusaha",
+      "education": [
+        {
+          "level": "TK",
+          "place": "Sekolah Sumbangsih, Jakarta, Indonesia",
+          "fromToYear": "1956-1957"
+        },
+        {
+          "level": "SD",
+          "place": "The Dean School, Singapura",
+          "fromToYear": "1957-1960"
+        },
+        {
+          "level": "SD",
+          "place": "Glenealy Junior School, Hongkong",
+          "fromToYear": "1960-1962"
+        },
+        {
+          "level": "SMP",
+          "place": "Victoria Institute, Kuala Lumpur, Malaysia",
+          "fromToYear": "1962-1964"
+        },
+        {
+          "level": "SMP",
+          "place": "American International School",
+          "fromToYear": "1964-1966"
+        },
+        {
+          "level": "SMA",
+          "place": "The American School in London",
+          "fromToYear": "1966-1968"
+        },
+        {
+          "level": "Akademi",
+          "place": "Akademi Militer Nasional, Magelang Indonesia",
+          "fromToYear": "1970-1974"
+        }
+      ],
+      "course": [
+        {
+          "name": "German GSG-9 anti-terror",
+          "year": "1981"
+        },
+        {
+          "name": "Fort Benning",
+          "year": "1985"
+        }
+      ],
+      "organization": [
+        {
+          "name": "Yayasan Pendidikan Kebangsaan",
+          "position": "Ketua",
+          "fromToYear": "2001"
+        },
+        {
+          "name": "Himpunan Kerukunan Tani Indonesia (HKTI)",
+          "position": "Ketua",
+          "fromToYear": "2004"
+        },
+        {
+          "name": "Partai Gerindra",
+          "position": "Ketua Umum dan Ketua Dewan Pembina",
+          "fromToYear": "2008"
+        },
+        {
+          "name": "Ikatan Pencak Silat Indonesia",
+          "position": "Ketua Umum",
+          "fromToYear": "2004"
+        },
+        {
+          "name": "Asosiasi Pedagang Pasar Seluruh Indonesia",
+          "position": "-",
+          "fromToYear": "-"
+        },
+        {
+          "name": "Koperasi Garuda Yaksa",
+          "position": "Ketua Umum",
+          "fromToYear": "2015"
+        }
+      ],
+      "jobExperience": [
+        {
+          "name": "TNI - Komandan Jendral Kopassus",
+          "fromToYear": "1996-1998"
+        },
+        {
+          "name": "TNI - Panglima Komando Cadangan Strategis Angkatan Darat",
+          "fromToYear": "1998-1998"
+        },
+        {
+          "name": "TNI - Komandan Sekolah Staf dan Komando ABRI",
+          "fromToYear": "1998-1998"
+        },
+        {
+          "name": "PT Nusantara Energy - Presiden Direktur",
+          "fromToYear": "2002"
+        },
+        {
+          "name": "PT Kertas Nusantara - Presiden Direktur",
+          "fromToYear": "2001-2009"
+        },
+        {
+          "name": "PT Tidar Kerinci Agung - Komisaris Utama",
+          "fromToYear": "2002"
+        }
+      ],
+      "jobAppreciation": [
+        {
+          "name": "Bintang kartika Eka Paksi Nararya",
+          "from": "-",
+          "year": "-"
+        },
+        {
+          "name": "Satya Lencana Kesetiaan XVI Tahun",
+          "from": "-",
+          "year": "-"
+        },
+        {
+          "name": "Satya Lencana Seroja Ulangan-III",
+          "from": "-",
+          "year": "-"
+        },
+        {
+          "name": "Satya Lencana Raksaka Dharma",
+          "from": "-",
+          "year": "-"
+        },
+        {
+          "name": "Satya Lencana Dwija Sistha",
+          "from": "-",
+          "year": "-"
+        },
+        {
+          "name": "Satya Lencana Wira Karya",
+          "from": "-",
+          "year": "-"
+        },
+        {
+          "name": "The First Class The Padin Medal Ops Honor",
+          "from": "Pemerintah Kamboja",
+          "year": "-"
+        },
+        {
+          "name": "Bintang Yudha Dharma Nararya",
+          "from": "-",
+          "year": "-"
+        }
+      ],
+      "publication": [
+        {
+          "title": "Selamatkan Indonesia Raya",
+          "date": "2009"
+        },
+        {
+          "title": "Membangun Kembali Indonesia Raya",
+          "date": "2014"
+        },
+        {
+          "title": "Paradok Indonesia",
+          "date": "2015"
+        }
+      ],
+      "motivation": "(berisi hal-hal yang melatarbelakangi calon untuk mengajukan diri sebagai bakal calon Presiden dan Wakil Presiden)",
+      "target": "(berisi contoh hal-hal yang akan dikerjakan ketika telah menjadi Presiden dan Wakil Presiden)",
+      "source": "https: //kpu.go.id/koleksigambar/BB.2_PPWP_2.pdf"
+    }
+  ]
+}
