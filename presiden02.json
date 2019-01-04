@@ -12,13 +12,13 @@
   ],
   "vision": "Terwujudnya Bangsa dan Negara Republik Indonesia yang adil, makmur bermartabat, relijius, berdaulat di bidang politik, berdiri di atas kaki sendiri di bidang ekonomi, dan berkepribadian nasional yang kuat di bidang budaya serta menjamin kehidupan yang rukun antar warga negara tanpa memandang suku, agama, latar belakang sosial dan rasnya berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
   "mission": [
-    "Membangun perekonomian nasional yang adil, makmur, berkualitas, dan berwawasan lingkungan dengan mengutamakan kepentingan rakyat Indonesia melalui jalan politik-ekonomi sesuai Pasal 33 dan 34 UUD Negara Republik Indonesia Tahun 1945.",
-    "Membangun masyarakat Indonesia yang cerdas, sehat, berkualitas, produktif, dan berdaya saing dalam kehidupan yang aman, rukun, damai, dan bermartabat serta terlindungi oleh jaminan sosial yang berkeadilan tanpa diskriminasi.",
+    "Membangun perekonomian nasional yang adil, makmur,  berkualitas, dan berwawasan  lingkungan  dengan  mengutamakan  kepentingan  rakyat Indonesia melalui jalan politik-ekonomi sesuai Pasal 33 dan 34 UUD Negara Republik Indonesia Tahun 1945.",
+    "Membangun masyarakat Indonesia yang cerdas, sehat, berkualitas, produktif, dan  berdaya  saing  dalam  kehidupan  yang  aman,  rukun,  damai, dan bermartabat serta terlindungi oleh jaminan sosial yang berkeadilan tanpa diskriminasi.",
     "Membangun keadilan di bidang hukum yang tidak tebang pilih dan transparan, serta mewujudkan persatuan dan kesatuan bangsa Indonesia melalui jalan demokrasi yang berkualitas sesuai dengan Pancasila dan UUD Negara Republik Indonesia Tahun 1945",
-    "Membangun kembali nilai-nilai luhur kepribadian bangsa untuk mewujudkan Indonesia yang adil, makmur, bermartabat, dan bersahabat, yang diberkati oleh Tuhan Yang Maha Esa.",
+    "Membangun kembali nilai-nilai luhur kepribadian bangsa untuk mewujudkan Indonesia yang adil, makmur,  bermartabat, dan bersahabat, yang diberkati oleh Tuhan Yang Maha Esa.",
     "Membangun sistem pertahanan dan keamanan nasional secara mandiri yang mampu menjaga keutuhan dan integritas wilayah Indonesia."
   ],
-  "presidentName": "H. PRABOWO SUBIANTO ",
+  "presidentName": "H. PRABOWO SUBIANTO",
   "vicePresidentName": "H. SANDIAGA SALAHUDDIN UNO",
   "mediaSocial": [
     {
@@ -230,6 +230,102 @@
       "motivation": "(berisi hal-hal yang melatarbelakangi calon untuk mengajukan diri sebagai bakal calon Presiden dan Wakil Presiden)",
       "target": "(berisi contoh hal-hal yang akan dikerjakan ketika telah menjadi Presiden dan Wakil Presiden)",
       "source": "https: //kpu.go.id/koleksigambar/BB.2_PPWP_2.pdf"
+    },
+    {
+      "name": "Sandiaga Salahudin Uno",
+      "nik": "317407206690006",
+      "birthdate": "28-Jun-69",
+      "birthPlace": "Rumbai",
+      "sex": "Laki-laki",
+      "religion": "Islam",
+      "address": "JL. Galuh II No. 18, RT 03, RW 01, Kelurahan Selong, Kecamatan Kebayoran Baru, Jakarta Selatan, DKI Jakarta",
+      "maritalStatus": "Kawin",
+      "wifeName": "Noor Asiah A. Aziz",
+      "childrenCount": "3",
+      "lastEducation": "Strata II (S2)",
+      "occupation": "Wiraswasta",
+      "education": [
+        {
+          "level": "Strata II (S2)",
+          "place": "George Washington University",
+          "fromToYear": "1990-1992"
+        },
+        {
+          "level": "Strata I (S1)",
+          "place": "Wichita State University",
+          "fromToYear": "1987-1990"
+        },
+        {
+          "level": "SMA",
+          "place": "Pangudi Luhur",
+          "fromToYear": "1985-1987"
+        }
+      ],
+      "course": [],
+      "organization": [
+        {
+          "name": "Hipmi Jaya",
+          "position": "Ketua Umum",
+          "fromToYear": "1999-2001"
+        },
+        {
+          "name": "Kadin",
+          "position": "Ketua Komite",
+          "fromToYear": "2004-2005"
+        },
+        {
+          "name": "Hipmi Pusat",
+          "position": "Ketua Umum",
+          "fromToYear": "2005-2008"
+        }
+      ],
+      "jobExperience": [
+        {
+          "name": "Summa Group - Staff",
+          "fromToYear": "2990-1993"
+        },
+        {
+          "name": "Sea Power Asia Investment Limited, Singapore - Manajer Investasi",
+          "fromToYear": "1994-1995"
+        },
+        {
+          "name": "MP Holding Limited Singapore - Manajer Investasi",
+          "fromToYear": "1994 - 1995"
+        },
+        {
+          "name": "NTI Resource Limited Canada - Executive Vice President",
+          "fromToYear": "1995 - 1997"
+        },
+        {
+          "name": "PT Recapital - Advisors",
+          "fromToYear": "1997-2016"
+        },
+        {
+          "name": "PT Saratoga Investama Sedaya - CEO",
+          "fromToYear": "1998-2017"
+        }
+      ],
+      "jobAppreciation": [
+        {
+          "name": "Indonesian Entrepreneur of the Year",
+          "from": "Anterprose Asia",
+          "year": "2008"
+        },
+        {
+          "name": "150 orang terkaya",
+          "from": "Globe Asia",
+          "year": "2009"
+        },
+        {
+          "name": "Orang terkaya nomor 37 di Indonesia",
+          "from": "Majalah Forbes",
+          "year": "2011"
+        }
+      ],
+      "publication": [],
+      "motivation": "(berisi hal-hal yang melatarbelakangi calon untuk mengajukan diri sebagai bakal calon Presiden dan Wakil Presiden)",
+      "target": "(berisi contoh hal-hal yang akan dikerjakan ketika telah menjadi Presiden dan Wakil Presiden)",
+      "source": "https: //kpu.go.id/koleksigambar/BB.2_PPWP_4.pdf"
     }
   ]
 }
